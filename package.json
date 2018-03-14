@@ -1,0 +1,28 @@
+{
+  "name": "visual-express-ui",
+  "version": "0.0.1",
+  "description": "Visual UI for Express",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "author": "Felipe Penno | https://www.piscestek.com.au",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.18.0",
+    "bootstrap": "3.3.7",
+    "jquery": "3.1.1",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "react-scripts": "1.1.1",
+    "survey-react": "1.0.13",
+    "surveyjs-editor": "1.0.13",
+    "surveyjs-widgets": "1.0.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fpenno/visual-express-ui.git"
+  },
+  "keywords": ["visual", "express", "listener", "router", "handler", "api", "rest", "restful", "aws", "lambda"]
+}
