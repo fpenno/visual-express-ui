@@ -10,7 +10,7 @@
   "author": "Felipe Penno | https://www.piscestek.com.au",
   "license": "MIT",
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.18.1",
     "bootstrap": "3.3.7",
     "jquery": "3.5.0",
     "react": "16.2.0",
